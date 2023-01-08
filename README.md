@@ -1,6 +1,3 @@
-.paginas - home 
-.mais vendidos 
-
 ## HI! I´m Moniqui Borré and this is my account to increse my studies🙂! You are welcome to comment my code made suggestions.
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -21,7 +18,7 @@
 <div> 
   <a href="https://www.instagram.com/moniqui_borre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/moniqui-borr%C3%A9-a45b10210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
   
