@@ -1,4 +1,4 @@
-## HI! I´m Moniqui Borré and this is my account to increase my studies🙂! You are welcome to comment on my code made suggestions.
+## HI! I´m Moniqui Borré and this is my account to increase my studies🙂! You are welcome to comment on my code.
 <div align="center">
   <a href="https://github.com/MoniquiBorre">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoniquiBorre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
