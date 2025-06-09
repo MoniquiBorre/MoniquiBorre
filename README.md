@@ -10,7 +10,7 @@
   <img align="center" alt="Moniqui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Moniqui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Moniqui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Moniqui-pic" height="230" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/741129120007847946/1061475620795715604/ReadyPlayerMe-Avatar.png?width=500&height=500">
+  <img align="right" alt="Moniqui-pic" height="230" style="border-radius:50;" src="https://cdn.discordapp.com/attachments/741129120007847946/1061475620795715604/ReadyPlayerMe-Avatar.png?width=500&height=500">
 </div>
   
   ##
